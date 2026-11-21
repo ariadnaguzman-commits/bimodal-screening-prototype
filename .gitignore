@@ -1,0 +1,13 @@
+﻿venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/raw/sipakmed/
+*.bmp
+*.png
+*.jpg
+*.tiff
+!results/*.png
+.DS_Store
+Thumbs.db
